@@ -1,4 +1,7 @@
 # Point of Interest Teleporter
+
+# THIS MODULE IS DEPRECATED IN FAVOR OF [Beneos-Point-Of-Interest-Teleporter](https://github.com/BeneosBattlemaps/Beneos-Point-Of-Interest-Teleporter)
+
 ![Example](cover.png)
 
 Create map pins that can be used to navigate between scenes. When there is a map note for a journal entry, and that entry is the Scene Notes for a scene, the map note gains a context menu. This menu has options to activate, view, or toggle navigation for that scene.
